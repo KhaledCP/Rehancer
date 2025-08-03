@@ -18,7 +18,7 @@ function Home() {
         </p>
 
         <Link
-          to="/start"
+          to="/rehancer/start"
           className="bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-6 rounded-full text-lg transition"
         >
           Get started
