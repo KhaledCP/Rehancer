@@ -6,7 +6,7 @@ pdfjsLib.GlobalWorkerOptions.workerSrc =
 
 const client = new OpenAI({
   apiKey:
-    "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",
+    "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",
   dangerouslyAllowBrowser: true,
 });
 
