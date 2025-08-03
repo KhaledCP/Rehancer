@@ -32,7 +32,7 @@ export default function App() {
   return (
     <Router>
       <Routes>
-        <Route path="/" element={<Home />} />
+        <Route path="/rehancer" element={<Home />} />
         <Route path="/start" element={<Start />} />
         <Route path="/analyze" element={<Analyze />} />
         <Route path="/builder" />
