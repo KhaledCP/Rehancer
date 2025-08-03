@@ -27,7 +27,7 @@ export default function Start() {
               based on your dream job. You'll get tailored feedback in seconds.
             </p>
             <Link
-              to="/analyze"
+              to="/rehancer/analyze"
               className="inline-block bg-green-500 hover:bg-green-600 text-white font-semibold py-2 px-6 rounded-full transition"
             >
               Go

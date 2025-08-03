@@ -33,9 +33,9 @@ export default function App() {
     <Router>
       <Routes>
         <Route path="/rehancer" element={<Home />} />
-        <Route path="/start" element={<Start />} />
-        <Route path="/analyze" element={<Analyze />} />
-        <Route path="/builder" />
+        <Route path="/rehancer/start" element={<Start />} />
+        <Route path="/rehancer/analyze" element={<Analyze />} />
+        <Route path="/rehancer/builder" />
       </Routes>
     </Router>
   );
